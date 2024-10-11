@@ -13,8 +13,8 @@ This application performs CRUD operations for **Items** and **User Clock-In Reco
 ### Installation Steps
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/your_username/fastapi-crud-assignment.git
-    cd fastapi-crud-assignment
+    git clone https://github.com/neuralmanacle/vortex.git
+    cd vortex_ai
     ```
 
 2. **Create and Activate Virtual Environment**
