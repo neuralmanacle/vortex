@@ -14,7 +14,7 @@ This application performs CRUD operations for **Items** and **User Clock-In Reco
 1. **Clone the Repository**
     ```bash
     git clone https://github.com/neuralmanacle/vortex.git
-    cd vortex_ai
+    cd vortex
     ```
 
 2. **Create and Activate Virtual Environment**
