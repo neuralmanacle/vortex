@@ -61,5 +61,5 @@ This application performs CRUD operations for **Items** and **User Clock-In Reco
 - **PUT /clock-in/{id}**: Update a clock-in record's details by ID.
 
 ## Hosted Application
-Access the live API documentation [here](https://your-hosted-app-url/docs).
+Access the live API documentation [here](full-tim-neuralmanacle-c1da6dfa.koyeb.app/docs).
 
